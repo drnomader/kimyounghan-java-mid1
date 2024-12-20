@@ -7,8 +7,7 @@ public class ClassGrade {
 
 	private final int discountPercent;
 
-
-	public ClassGrade(int discountPercent) {
+	private ClassGrade(int discountPercent) {
 		this.discountPercent = discountPercent;
 	}
 
