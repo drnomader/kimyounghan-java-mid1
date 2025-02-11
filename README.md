@@ -10,5 +10,4 @@
 * 중첩 클래스, 내부 클래스
 * 예외 처리
 
----
-[출처](https://inf.run/FiFGQ)
+![image](https://github.com/user-attachments/assets/39d14dd2-9600-4a3c-9d56-36ec580fa5d8)
